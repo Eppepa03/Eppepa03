@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Eppepa03
-- 👀 I’m interested in sleeping, eating and programming.
-- 🌱 I’m currently learning to program, eat and sleep.
-- ⚡ Fun fact: I like eating, sleeping and programming!
+
 
 <!---
 - 💞️ I’m looking to collaborate on ...
@@ -21,6 +18,14 @@ graph TD;
     Eat-->Programs;
     Programs-->Sleep;
 ```
+- 👋 Hi, I’m @Eppepa03
+- 👀 I’m interested in sleeping, eating and programming.
+- 🌱 I’m currently learning to program, eat and sleep.
+- ⚡ Fun fact: I like eating, sleeping and programming!
+</br>
+</br>
+</br>
+
 ```mermaid
 pie title Time spent
     "Sleeping" : 8
