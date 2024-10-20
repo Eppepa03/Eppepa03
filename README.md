@@ -22,5 +22,5 @@ graph TD;
 pie title Time spent
     "Sleep" : 8
     "Eat" : 5
-    "Programs" : 11
+    "Programsing" : 11
 ```
