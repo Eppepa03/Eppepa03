@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```mermaid
+---
+title: My day
+---
 graph TD;
     Sleep-->Eat;
     Eat-->Programs;
