@@ -20,7 +20,7 @@ graph TD;
 ```
 ```mermaid
 pie title Time spent
-    "Sleep" : 8
-    "Eat" : 5
+    "Sleeping" : 8
+    "Eating" : 5
     "Programsing" : 11
 ```
